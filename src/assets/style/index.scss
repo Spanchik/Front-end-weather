@@ -1,0 +1,11 @@
+@import "normalize.css";
+@import "./fonts/fonts.scss";
+
+@import './base/base';
+@import './modules/main';
+@import './modules/search-form';
+@import './modules/map';
+@import './modules/weather-card';
+
+
+@import 'bootstrap/dist/css/bootstrap.min.css';

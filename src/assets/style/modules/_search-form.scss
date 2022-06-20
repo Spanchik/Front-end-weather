@@ -1,0 +1,19 @@
+.search-form {
+  width: 100%;
+  max-width: 484px;
+  max-height: 40px;
+  padding: 0 12px;
+  display: flex;
+  margin-bottom: 30px;
+  &__input {
+    text-align: start;
+  }
+  button {
+    margin-left: 10px;
+  }
+}
+.error-text {
+  font-family: "Futura";
+  font-size: 16px;
+  color: rgb(80, 79, 79);
+}
